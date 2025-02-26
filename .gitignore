@@ -1,0 +1,13 @@
+# Ignore data folder
+data/
+
+# Ignore models folder
+models/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
